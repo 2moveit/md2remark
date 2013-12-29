@@ -1,2 +1,2 @@
-ruby md2remark.rb
+ruby src/md2remark.rb
 pause
