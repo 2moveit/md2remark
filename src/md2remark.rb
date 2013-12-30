@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require 'FileUtils'
 
 root_dir = File.expand_path('..', File.dirname(__FILE__)) 
