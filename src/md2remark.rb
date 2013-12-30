@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-require 'FileUtils'
+require 'fileutils'
 
 root_dir = File.expand_path('..', File.dirname(__FILE__)) 
 files = Dir[File.join(root_dir, 'input_markdown/*.md')]
